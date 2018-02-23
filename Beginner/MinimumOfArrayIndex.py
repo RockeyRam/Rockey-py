@@ -1,13 +1,3 @@
-#-------------------------------------------------------------------------------
-# Name:        module1
-# Purpose:
-#
-# Author:      Administrator
-#
-# Created:     23-02-2018
-# Copyright:   (c) Administrator 2018
-# Licence:     <your licence>
-#-------------------------------------------------------------------------------
 TotalInt=[]
 a=input("Enter How many Integers")
 for i in range(0,a):
