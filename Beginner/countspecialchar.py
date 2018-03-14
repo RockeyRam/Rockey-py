@@ -6,5 +6,5 @@ def main():
       pass
     else:
       count+=1
-  print("The Number of numeric in a String:",count)
+  print("The Number of Special character in a String:",count)
 main()
