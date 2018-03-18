@@ -1,0 +1,6 @@
+a=int(input("Enter Number"))
+b=int(input("Enter Number"))
+a=a^b
+b=a^b
+a=a^b
+print(a,b)
