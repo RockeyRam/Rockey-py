@@ -1,4 +1,5 @@
-number=int(input("Enter the number"))
-string=str(input("Enter the String"))
-for i in range(0,number):
-  print(string)
+a=input("Enter String and number").split(" ")
+b=a[0]
+c=int(a[1])
+for i in range(0,c):
+  print(b)
