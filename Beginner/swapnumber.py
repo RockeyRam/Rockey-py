@@ -5,5 +5,5 @@ def main():
   x=a
   a=b
   b=x
-  print("After Swaping",a,b);
+  print("After Swaping",a,b)
 main()
