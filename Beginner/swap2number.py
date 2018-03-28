@@ -1,9 +1,9 @@
 def main():
-  x=input("Enter Value:")
-  y=input("Enter Second Value")
-  print("The Before Swapping values are "+str(x)+" "+str(y))
-  t=x
-  x=y
-  y=t
-  print("The Swapping values are "+str(x)+" "+str(y))
+  a=int(input("Enter Number 1"))
+  b=int(input("Enter Number 2"))
+  print("Before Swaping ",a,b)
+  x=a
+  a=b
+  b=x
+  print("After Swaping",a,b);
 main()
